@@ -158,16 +158,16 @@ Browserify.prototype.require = function (file, opts) {
     if (typeof file === 'object') {
         row = xtend(file, opts);
     }
-    else if (isExternalModule(file)) {
+    else if (!opts.entry && isExternalModule(file)) {
         // external module or builtin
         row = xtend(opts, { id: expose || file, file: file });
     }
     else {
-        row = xtend(opts, { file: file });
+        row = xtend(opts, { file: path.resolve(basedir, file) });
     }
     
     if (!row.id) {
-        row.id = expose || file;
+        row.id = expose || row.file;
     }
     if (expose || !row.entry) {
         // Make this available to mdeps so that it can assign the value when it
@@ -182,10 +182,7 @@ Browserify.prototype.require = function (file, opts) {
         self._bpack.hasExports = true;
     }
     
-    if (row.entry) {
-        row.file = path.resolve(basedir, row.file);
-        row.order = self._entryOrder ++;
-    }
+    if (row.entry) row.order = self._entryOrder ++;
     
     if (opts.transform === false) row.transform = false;
     self.pipeline.write(row);
