@@ -1,19 +1,24 @@
-# browserify
+# bowserify
 
-`require('modules')` in the browser
+### you did not misspell `browserify`, this is actually what you wanted.
+
+`require('modules')` surrounded by bowser and his cool friends
 
 Use a [node](http://nodejs.org)-style `require()` to organize your browser code
-and load modules installed by [npm](https://www.npmjs.com).
+and load modules installed by [npm](https://www.npmjs.com), while interspersing
+cool pictures of bowser.
 
-browserify will recursively analyze all the `require()` calls in your app in
+bowserify will recursively analyze all the `require()` calls in your app in
 order to build a bundle you can serve up to the browser in a single `<script>`
-tag.
+tag. this is a lot like browserify, but you weren't looking for browserify.
 
 [![build status](https://secure.travis-ci.org/substack/node-browserify.png)](http://travis-ci.org/substack/node-browserify)
 
-![browserify!](http://substack.net/images/browserify_logo.png)
+![bowserify!](http://i.imgur.com/v5s7QyQ.png)
 
 # getting started
+
+(ok the rest of this is just the normal [browserify](https://github.com/substack/node-browserify) docs.)
 
 If you're new to browserify, check out the
 [browserify handbook](https://github.com/substack/browserify-handbook)

@@ -1,0 +1,38 @@
+/*                                                                               
+                             ,y,                                                
+                         ,,gQM7Q                                                
+                   ,##M"""`    Q#y,                                             
+             ,QM@QQM'        #Kq  YQpgye,                                       
+            #M  @QL         ,L  "p     @#                                       
+         gq#Q    @#P"^FQ"K#M^    @   "^F@Q                                      
+         @Q Y ,#^O    ,"p b      M       ^Q          ,,,                        
+    ,#MR""TPWQ, #  #^ ^y` "Q  ,a@        `FQQ      ;QN`@Q                       
+  ,QM    ,,    ^Y#@Q   jyM"`^`^"Y@#"^""k,   Q    ##`   @[      ,,               
+  QL    ^         YQ,M`            Y,    "Q,@Q##M^     Qb ,;##P^@Q              
+ ]Q                                  Q     Q  ,        QQ#P`    QL              
+ jQ                                  jp    'p @        b`"q,   @#               
+  @Q                   ,@W,           M     @  Yy    ,#     "b;Q#Q#QQ           
+   RQQ  g          ,eMt {  ^v        @Q      "q   ``     ,eM"^     QL           
+     ^RWQ`""Q##Q"` @ a`    ,M      ;T ^Q       '^t,    ]L        ,QL            
+        %QQ,QM@#"Q #  S^y#`     L`@  ,#M""""F=,    @   @        #`@Q            
+          ^"`;QbmWWWWmb,M      #>m",`     O`'% '"Q  @   @,    ,M   @""RWQ##,    
+            @#               ,MdWQ` @     ^Y=^    @ j     "FKP      Q     ,QM   
+            @Q              #     @" ,A"^`"+=,    ,Q]               ]  ,##R`    
+             "@#yg##,,,,,,#Q ,,-m"7,L         ^W @  Q      ,pM=m,,  ]QP`        
+              ,;Qb,-``Yjb       ,e;M-,,         Q M^@     @`      '`"E@#y,      
+          aQM"`'  ",    Q      @,,^     "Q   O],#   ]     Q            ,@#      
+       ,#Q^,Q        ]  @M"@..' ^"<,  (  \%   |a     Q    %Q     ,,gMWQQ'       
+      ;#^ S  ],     M "Q;M,          w Ym` @  @       %Q    ^""`   L   %Q       
+      QQ,p~%`  "~  #   S  ,M`         @    @#  @        ^Yp       ####Q#M       
+      '@#  a^t  ,,^/"Y#,,#` % ,       ] ,AWU    "Q         '"FWmM"Qp            
+       %MQQ ,#M"^^Y###N`Q   ;#mq     ,Q,b,A       "w,             ]W#           
+         "EW`           WQQk@   @m""   Q             "Wy,        ,#jQ  ;QQp     
+                          "QQ,mQpm--mm~%,S /, ~           `""@RQ"` ]Q QN ]Q     
+                           ,@Qe ^W,     ^b/k.               @`  ^"""W#M   Q     
+                        ;#M^       `YWQ`   Y,                Q        "=md"WQp  
+                      #M^@A, p`         ^@M`                 `Q            ,QM  
+                     @Qg#  #  ]       ;Q, ,                   ]#######Q#MM"`'   
+                       "FP@###Q#MMMWQL  #" "yM<,              ]#                
+                                   'M##Q,,,#    b    ,,,,ye###M                 
+                                       `""EMMMMMPT"""^` '                       
+*/

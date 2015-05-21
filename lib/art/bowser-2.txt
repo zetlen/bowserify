@@ -1,0 +1,34 @@
+/*
+                              ]SSSSSSM                                          
+                     WMMMMMMMMM      ,S#                                        
+              ,,,,,WWU\USU         @QQ                                          
+     ,,     ,,FFFFF\USU\\U,,,,,  ,,@QQ                                          
+  ,,/PP,,,,/PP     \\U\U\\UUppsssUU6PR,,                                        
+yyS"\ygP"FPT\U     \\U\\\\\U\\\U\UUUUjQQ                                        
+QQ  ^""  `````  .ppUU\UU"\\\\UU\\\\UUjQQ                                        
+QQ       yp~  pp#\\\U""   ""\UU\\\\UUjQQpppppppppppp                            
+QQ         S##S\U^^^^  ]SS  \\\\\\\UU[````\""""""```####[                       
+``@#[  ##M   '    !SSQQ#U\  \\\\\\\UU[    ]UUUU       "'@#########              
+  @Q[  QQ     SS   \\\\     \\\\\\U\U[    ]U[           \'        QQM           
+    jQQ  @Q[  QQQQQQQU\SSS  \\\UUU\       ]USQS  !SS  SSS\U     SUQQQQQ         
+           jQQ     QQ  !    \UUUU       SSS\UU\SSSSSSSS\\USSSNSU 7''  jQQ       
+                ]QQQQUU\ \SSUUU       SSUUUU\\\UU\UUUUUUUUU\USSSSS\\  jQQ       
+              QQM        !UUSUU       UUUUUUUUUU\\Up       \U\\\\\UUUUjQQ       
+                ]QQ    ]QQQQU\\\\              HNNUp    ! \U\\\\\U       QQM    
+                   ##QQMMMMMMM@QQ;;NN\,,    |    !NNUU,,,,*UUU\UUU       QQM    
+                   ,,EWb  FF,,3WWWW  jQQFFU         \UU\\\U\\\\UUUUUp,,,,WWQ,,  
+                   QQ     ,,@QQ      7RR,,,,,ssUU   \\\\\\SHHHHPHH\\\\\UU, ZRR,,
+                   QQ  """QQMP+         PPP"T\UUU   ""S\\\U     ,,\\UUU\U,,,,,RR
+                   QQ  yyyQQ            pppppU\UU     \\UUUpp,,s *U\\\S""""@QQ  
+                   ""pqO""QQ            \\\UU\UUU     9\UU\UUpSppS\\UU[    ^""ee
+                     "")ppQQ `"      j##\U\UU\\UU     \UUUUUU\UL````@Uppwpwsp#""
+                       `````@#########QQS\U\\\\U\       ]UUU\\\SwS##SUU 'SS@QQ  
+                            ````````````##U\U\\\UQ#S       \UUUSSSUUU\SSS\\@QQ  
+                                          @QQ\\UUUUSSQ                 \\\U@QQ  
+                                            jQQ\\\UU\SQQQQQSSSSU             jQQ
+                                            jQQ    \U\UUU      \SU           jQQ
+                                          @QQ                       \\[    @QQ  
+                                        QQ                          \        jQQ
+                                     jQQ                       ]QQQQQQQQQQQQQQ  
+                                        MMMMMMMMMMMMMMMMMMMMMMMM                
+*/

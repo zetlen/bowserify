@@ -1,0 +1,59 @@
+/*
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMM                                                                                        MMMMMMM
+MMMMM  ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  MMMMMMM
+MMMMM  :::           ........................................................           ...  MMMMMMM
+MMMMM  ::: S7iiiiiSi :::::::::::::::::::::::::::::::::::::::::::::::::::::::: .2iiiii7X :::  MMMMMMM
+MMMMM  ::: MMMMMMMMM 77777777777777777777777777777777777777777777777777777777.8MMMMMMMM 777; MMMMMMM
+MMMMM  ::: MMMMMMMMZ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;MMMMMMMM ;;;: MMMMMMM
+MMMMM  ::: MMMMMMMMZ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;MMMMMMMM ;;;: MMMMMMM
+MMMMM  ::: MMMMMMMMM ;;r77777777777777777777777777777777777777777777r;;;;;;;; 2MMMMMMMM ;;;: MMMMMMM
+MMMMM  ::: Z2rrrrrar.;ri,::::::::::::::::::::::::::::::::::::::::::,ir;;;;;;;,:ZrrrrrSa ;;;: MMMMMMM
+MMMMM  ::: .       .i;7: .......................................... ir;;;;;;;i.       .:;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;7i.:::::::::::::::::::::::::::::::::::::::::: ;r;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;r7XSSS2r.::::::::::::::::::::::::::::::::::::::::::.72SSSX7r;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;7.     .,::::::::::::::::::::::::::::::::::::::::::,.     ,r;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;7:.::::::::::::::::::::::::::::::::::::::::::::::::::::::.i7;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;7:.:::::::::::::::::,                    ,:::::::::::::::       .:;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;7:.:::::::::::::::::. 0iiiiiiiiiiiiiiii0 .::::::::::::::: i8rrr2X ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;7:.:::::::::::::::::  MMMMMMMMMMMMMMMMMM  ::::::::::::::: WMMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;7:.:::::::::::::::::  MMMMMMMMMMMMMMMMMM  ::::::::::::::: 2MMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;7.                    MMMMMMMMMMMMMMMMMM  ::::::::::::::: 2MMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;rrr777.MMMMMMMMMMMMMMMMMMMMM           r .::::::::::::::: 2MMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;rrrr 0MMMMMMMMMMMMMMMMMMMM ..........; ,::::::::::::::: 2MMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;; 0MMMMMMMMMMMMMMMMMMMM rrrrrrrrrrS ,:::::::::.      XMMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;; WMMMMMMMMMMMMMMMMMMMM 7777777777S.,:::::::::       ;MMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;,                                ..,::::::::: MMMMMMMMMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X :::::::::::::::::::::::::::: MMMMMMMMMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X ::::::::::::::::             ZMMMMMMMMMMMM ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X :::::::::::::::: MM@@@@@@@@@2MMMMMMZ.rrr2X ;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X :::::::::::::::: MMMMMMMMMMMMMMMMMMX     .:;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X :::::::::::::::: MMMMMMMMMMMMMMMMMMZ ;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;r                  MMMMMMMMMMMMMMMMMMM ;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;rXSSSS MMMMMMMMMMMMMMMMMM             ,;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; MMMMMMMMMMMMMMMMMM  ;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; MMMMMMMMMMMMMMMMMM  ;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;;rrrrr MMMMMMMMMMMMMMMMMM .;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;r;7777 MMMMMMMMMMMMMMMMMM;,;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;7                         i;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X :::::::::::::::: X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X ::::::::::::::::        i;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X :::::::::::::::: MM@@@M:,;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X :::::::::::::::: MMMMMM,.;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;X :::::::::::::::: MMMMMM  ;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;r                  MMMMMM  ;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;rXSSSS MMMMMMMMMMMMMMMMMM  ;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: rr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; MMMMMMMMMMMMMMMMMM  ;;;;;;;;;;;;;;;;;;;;;;;;;;;: MMMMMMM
+MMMMM  ::: .       .i;;;;;;;;;;;;;;;;;;;;;; MMMMMMMMMMMMMMMMMM  ;;;;;;;;;;;;;i.       .:;;;: MMMMMMM
+MMMMM  ::: Z2rrrrrar.;;;;;;;;;;;;;;;;;;;;;; MMMMMMMMMMMMMMMMMM .;;;;;;;;;;;;;,:ZrrrrrSa ;;;: MMMMMMM
+MMMMM  ::: MMMMMMMMM ;;;;;;;;;;;;;;;;;;;;;; MMMMMMMMMMMMMMMMMM;,;;;;;;;;;;;;; 2MMMMMMMM ;;;: MMMMMMM
+MMMMM  ::: MMMMMMMMZ ;;;;;;;;;;;;;;;;;;;;;;                    i;;;;;;;;;;;;; ;MMMMMMMM ;;;: MMMMMMM
+MMMMM  ::: MMMMMMMMZ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;MMMMMMMM ;;;: MMMMMMM
+MMMMM  ::: MMMMMMMMM ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 2MMMMMMMM ;;;: MMMMMMM
+MMMMM  ::: Z2rrrrrar.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,:ZrrrrrSa ;;;: MMMMMMM
+MMMMM                ........................................................           ...  MMMMMMM
+MMMMM                                                                                        MMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+*/

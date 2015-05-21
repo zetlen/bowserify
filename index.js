@@ -24,6 +24,8 @@ var resolve = require('resolve');
 
 var readonly = require('read-only-stream');
 
+var through = require('through2');
+
 module.exports = Browserify;
 inherits(Browserify, EventEmitter);
 
@@ -31,6 +33,12 @@ var path = require('path');
 var paths = {
     empty: path.join(__dirname, 'lib/_empty.js')
 };
+
+var crypto = require('crypto');
+var fs = require('fs');
+var arts = fs.readdirSync(path.join(__dirname, 'lib', 'art')).map(function(file) {
+    return fs.readFileSync(path.join(__dirname, 'lib', 'art', file));
+});
 
 function Browserify (files, opts) {
     var self = this;
@@ -95,6 +103,21 @@ function Browserify (files, opts) {
     [].concat(opts.plugin).filter(Boolean).forEach(function (p) {
         self.plugin(p, { basedir: opts.basedir });
     });
+
+    self.transform(function(file) {
+        var h = crypto.createHash('md5');
+        h.update(file, 'utf8');
+        var i = Number('0x' + h.digest('hex').substring(0,2));
+        var art = arts[i % arts.length];
+        return through(function pass(chunk, enc, cb) {
+            if (art) {
+                chunk = art + "\n" + chunk;
+                art = null;
+            }
+            cb(null, chunk);
+        });
+    })
+
 }
 
 Browserify.prototype.require = function (file, opts) {

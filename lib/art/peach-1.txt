@@ -1,0 +1,35 @@
+/*                                   
+                    MM  M  M       
+                   M77MM,MM,MM     
+                 MMM7777+,,7MMMM   
+              MMM===MMMMMMMM??MM   
+            MM77???===========77M  
+        MMMM77ZZ777?==77?==?77??M  
+        M===????7777MMMM7??MMM???MM
+         MM=====???MMM~~MMM~MMZZ7MM
+        M77?==MMMMM~~~MM~~~M~~MMM  
+         MM===MM~MM+~~MM~~~M++MM   
+         MM===MM+77~~~~~~~~~++MM   
+        M??=====IMM+~~~~~~~~++MMM  
+      MM?77M====?77M++~~~~~~MM  M  
+        MMM===??MMMMMMMM~~~MMMMM   
+         MM???MM,,,?~~,,,??Z~~,,M  
+        M???MM,,,,,,,,,,?II?MM,,M  
+        M???MM~~~,,,ZZ,,MMM,MM~~M  
+         MM777MMM??ZZZ~~,,,~MMMM   
+           M7777M++~MM~~~~~M++MM   
+         MM77777M   MMZZZZZMMM  M  
+           MMMMMM     MM~~~M    M  
+              MM~MM     M  M  MM   
+              MM~~~MMM   MM   MM   
+            MM~~~~~~MMMM MM MMMM   
+            MM~~~~~     MMMM~~  M  
+           M~~~~ ZZ     Z   ZZ  M  
+           M++++ ZZ+++  Z++ ZZ  M  
+           M++++ ZZ+++  Z++ ZZ~~ MM
+         MM+++  Z+++++  Z++   ZZ MM
+         MM+++  Z+++++  Z+++  ZZ MM
+         MM+++  Z+++++  Z+++  ZZ MM
+         MMMMMMMMMMMMMMMMMMMMMMMMMM
+         MMMMMMMMMMMMMMMMMMMMMMMMMM
+*/

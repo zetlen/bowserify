@@ -1,0 +1,54 @@
+/*
+                           MM      MM
+                         MM$$MM  MM::MM
+                       MM$$OOOOMM::::MM
+                 MMMMMMZZOOMMMM::::~~MM  MMMM
+                 MMMMMMZZOOMMMM::::~~MM  MMMM
+               MM$$$$MMMMMM::::::~~MMMMMM$$$$MM
+           MMMM$$ZZZZZZMM::::::~~~~MMNNOO$$MM
+         MM$$ZZZZMMMM++++MM~~~~~~MMNN$$OOMM
+           MMMMMMNNMM++::++MMMMMMNNOOOO$$$$MMMM
+           MMMMMMNNMM++::++MMMMMMNNOOOO$$$$MMMM
+     MMMMMMMMMMNNNNMM++::....++++MMNNNNOOOO$$OOMM
+   MM::::::MMDDNNNNMM++::....::++MMNNNNNNNNOOOO$$MM
+ MM::MM....::$$NNMM::++++::::::++++MMNN$$$$$$MM$$MM
+ MM::........::MMMMMMMMMM++::::++++MMNNOOOO$$MMMM
+ MM::........::MMMMMMMMMM++::::++++MMNNOOOO$$MMMM
+ MM++++........::::::::++MM++::++++MM$$NNOO$$$$MM
+   MM..++++++::::++++::::++MM++++++MMMM$$NNNNOO$$MM
+   MM..MM....++++....++::++MM++++MMMMMMMMNNOOMMOOMM
+   MM..MM....++++....++::++MM++++MMMMMMMMNNOOMMOOMM
+     MMMM....MMMM....MM::++MMMMMM~~....MMMMMM::MM
+         MMMM    MMMMMM::++MM~~~~..MMMM8888::::MMMMMMMMMM
+                 MMMM..::MM~~....MM8888888888888888::::~~MM
+             MMMM..MM::++MM~~..MM8888::88OOOOOOOO88::::~~MM
+             MMMM..MM::++MM~~..MM8888::88OOOOOOOO88::::~~MM
+           MM..MM..::++MM~~..MM8888::::OOOO$$$$OOOO88~~~~MM
+           MM..MM::++MMMM~~..MM88888888OO$$::::~~OOOO8888MM
+         MM::::::++MMDDMM~~..MM88888888OO$$::::~~OOOO8888MM
+         MM++++++MMMMDDDDMM~~..MMMM8888OOOOOO~~~~OOOOOO88::MM
+         MM++++++MMMMDDDDMM~~..MMMM8888OOOOOO~~~~OOOOOO88::MM
+           MMMMMM  MM..OOMM~~~~....MM8888OOOOOOOOOOOOOO88::::MM
+       MMMMMM      MMOOOOOOMM~~~~..MM888888OOOOOOOOOOOO8888MM
+     MM..::::MMMMMM++MMNN..88MM~~....MM88::::OOOOOOOO888888MM
+       MM::::::::::++++MM8888MM~~~~..MM8888::88OO::::~~8888MM
+       MM::::::::::++++MM8888MM~~~~..MM8888::88OO::::~~8888MM
+       MM::......::::++MMNN88NNMM~~..MM8888888888::::~~8888::MM
+     MM::....::::::::++++MM..NNMM~~....MM8888888888~~~~8888MM
+   MM..++::::::::++++++++MMNNNNMM~~~~..MM888888888888888888MM
+   MM..++::::::::++++++++MMNNNNMM~~~~..MM888888888888888888MM
+     MMMM++++++++++++++MMMMMMMMMMMM~~....MMMM888888888888MM
+       MM..++++++MMMMMMMM++++MM++MM~~~~......MMMM888888MM
+         MMMMMMMM        MMMM::++++MM~~~~........MMMMMM..MM
+                         MM::..::++++MM~~~~~~~~........~~MMMM
+                         MM::..::++++MM~~~~~~~~........~~MMMM
+                         MM::....::++++MMMM~~~~~~~~~~~~MMMM::MM
+                         MM::....::::++++++MMMMMMMMMMMMMM::::MMMM
+                         MMMM::..::::++++MMMM++++++++++++MMMMMM::MM
+                     MMMM::::..::++++++++MMMMMM++++++++::::::::MMMM
+                     MMMM::::..::++++++++MMMMMM++++++++::::::::MMMM
+                   MM....::..::::::::++++++MM  MMMMMM++++++++++::::MM
+                 MM......::++++++++++++++++MM        MMMMMMMMMMMMMM
+                   MMMMMMMMMMMMMMMMMMMMMMMM
+                   MMMMMMMMMMMMMMMMMMMMMMMM
+*/

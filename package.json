@@ -1,14 +1,14 @@
 {
-  "name": "browserify",
+  "name": "@jzetlen/bowserify",
   "version": "10.2.1",
-  "description": "browser-side require() the node way",
+  "description": "Thank You Substack, But Our Princess Is In Another Package.",
   "main": "index.js",
   "bin": {
-    "browserify": "bin/cmd.js"
+    "bowserify": "bin/cmd.js"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/substack/node-browserify.git"
+    "url": "http://github.com/zetlen/bowserify.git"
   },
   "keywords": [
     "browser",
@@ -17,7 +17,8 @@
     "commonj-esque",
     "bundle",
     "npm",
-    "javascript"
+    "javascript",
+    "bowser"
   ],
   "dependencies": {
     "JSONStream": "^1.0.3",
@@ -84,9 +85,9 @@
     "through": "^2.3.4"
   },
   "author": {
-    "name": "James Halliday",
-    "email": "mail@substack.net",
-    "url": "http://substack.net"
+    "name": "James Zetlen",
+    "email": "zetlen@gmail.com",
+    "url": "http://jameszetlen.com"
   },
   "scripts": {
     "test": "tap test/*.js"
