@@ -12,6 +12,13 @@ bowserify will recursively analyze all the `require()` calls in your app in
 order to build a bundle you can serve up to the browser in a single `<script>`
 tag. this is a lot like browserify, but you weren't looking for browserify.
 
+**install bowserify just like browserify, with:**
+``` sh
+npm i -g bowserify
+```
+
+**now, if you ~~accidentally misspell browserify~~ want a way cooler browserify alternative, you can run `bowserify` and it will work just slightly better.**
+
 [![build status](https://secure.travis-ci.org/substack/node-browserify.png)](http://travis-ci.org/substack/node-browserify)
 
 ![bowserify!](http://i.imgur.com/v5s7QyQ.png)
