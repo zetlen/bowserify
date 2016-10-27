@@ -1,7 +1,7 @@
 {
   "name": "@jzetlen/bowserify",
   "version": "10.2.1",
-  "description": "Thank You Substack, But Our Princess Is In Another Package.",
+  "description": "Thank You, Substack, But Our Princess Is In Another Package.",
   "main": "index.js",
   "bin": {
     "bowserify": "bin/cmd.js"
